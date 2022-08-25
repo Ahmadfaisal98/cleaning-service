@@ -755,7 +755,9 @@ textarea.input-control {
     margin-bottom: 20px;
   }
   /* # about */
-
+  .about .section-title {
+    text-align: center;
+  }
   .about-img,
   .about-text {
     grid-column: span 12;
