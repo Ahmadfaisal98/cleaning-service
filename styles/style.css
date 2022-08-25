@@ -300,7 +300,7 @@ textarea.input-control {
   line-height: 1;
   display: block;
   transform: scaleY(0.9);
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 }
 .header .logo span {
   font-size: 12px;
